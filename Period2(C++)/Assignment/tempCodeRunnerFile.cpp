@@ -1,0 +1,1 @@
+virtual ~Person() = default;
